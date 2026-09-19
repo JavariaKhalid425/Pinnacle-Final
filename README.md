@@ -3,6 +3,8 @@
 A premium, high-end responsive landing page for **The Pinnacle (by STJ Group, Mohali)**. Built using modern web standards, focusing on a clean corporate layout, luxury color palettes, and seamless user experience.
 
 ![Project Preview]
+
+
 <img width="1358" height="1960" alt="screencapture-127-0-0-1-3000-src-index-html-2026-09-19-20_58_59" src="https://github.com/user-attachments/assets/e7970bfc-d944-454c-83ba-7b7375ad5919" />
 
 
